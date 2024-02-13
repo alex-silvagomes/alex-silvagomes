@@ -1,4 +1,3 @@
-<img align="center" src="https://media.licdn.com/dms/image/C4E03AQHVaPLo2oe_Hw/profile-displayphoto-shrink_400_400/0/1552405439414?e=1713398400&v=beta&t=NBZVD__pJx3CUneQcwJi3fhbRmokvBA8nRPBnVy7dqo" />
 <h1 align="center">Hi 👋, I'm Alex Silva Gomes</h1>
 <h3 align="center">FullStack Developer, Tech Lead & Team Lead</h3>
 
