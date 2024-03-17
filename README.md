@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Silva Gomes</h1>
-<h3 align="center">FullStack Developer, Tech Lead & Team Lead</h3>
+<h3 align="center">FullStack Developer Enginner</h3>
 
-- 🔭 I’m currently working on [Breaking News App](https://github.com/Azure-AlexLabs/python-webapp)
+- 🔭 I’m currently working on [Breaking News App](https://investe-ai.azurewebsites.net/)
 
 - 🌱 I’m currently learning **Python, Flask, HTML, CSS, Javascript**
 
@@ -24,19 +24,21 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          alt="python"
+          width="40"
           height="40"
-          alt="javascript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> Python
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+          alt="flask"
+          width="40"
           height="40"
-          alt="typescript logo"
         />
-        <img width="12" /> Typescript
+        <img width="12" /> Flask
       </td>
       <td>
         <img
